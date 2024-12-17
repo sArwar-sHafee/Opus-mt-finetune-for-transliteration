@@ -1,0 +1,26 @@
+{	
+  "TrainArguments":
+  {
+  	"max_length": 512,
+  	"vocab_size": 61950,
+  	"per_device_batch_size": 32,
+  	"learning_rate": 5e-5
+  }
+}
+{
+  "TrainOutput": 
+  	{	    
+	    "global_step": 3200,
+	    "training_loss": 0.07061642111570109,
+	    "metrics": 
+	    	{
+		     "train_runtime": 2935.3995,
+		     "train_samples_per_second": 34.885,
+		     "train_steps_per_second": 1.09,
+		     "total_flos": 1735070859657216.0,
+		     "train_loss": 0.07061642111570109,
+		     "epoch": 1.2345679012345678
+		}
+  	}
+}
+

@@ -1,0 +1,8 @@
+Final Model:
+	SarwarShafee/de-Transliteration-en-hi-v2
+	https://huggingface.co/SarwarShafee/de-Transliteration-en-hi-v2/tree/main
+
+
+Model that was finetuned: 
+	Helsinki-NLP/opus-mt-en-hi
+	https://huggingface.co/Helsinki-NLP/opus-mt-en-hi/tree/main
